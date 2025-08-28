@@ -1,8 +1,8 @@
 {
-	"name": "discord-tickets",
+	"name": "ECL-Verification",
 	"version": "4.0.47",
 	"private": "true",
-	"description": "The most popular open-source ticket management bot for Discord.",
+	"description": "The Verification bot for ECL built by @empyraedev.",
 	"main": "src/",
 	"scripts": {
 		"db.dump": "node scripts/dump.mjs",
@@ -32,19 +32,19 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/discord-tickets/bot.git"
+		"url": "git+https://github.com/empyraedev/ECLVerify"
 	},
 	"keywords": [
 		"discord",
 		"tickets",
 		"bot"
 	],
-	"author": "eartharoid",
+	"author": "empyraedev",
 	"license": "GPL-3.0-or-later",
 	"bugs": {
-		"url": "https://github.com/discord-tickets/bot/issues"
+		"url": "https://github.com/empyraedev/ECLVerify/blob/main/README.md"
 	},
-	"homepage": "https://discordtickets.app",
+	"homepage": "https://github.com/empyraedev/ECLVerify",
 	"engines": {
 		"node": ">=18"
 	},
